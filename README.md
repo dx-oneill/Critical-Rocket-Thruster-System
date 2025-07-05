@@ -1,12 +1,5 @@
 # Critical Rocket Thruster System (SPARK Ada)
 
-This repository contains a safety-critical control system for regulating a rocket’s thrust and pressure, implemented in **SPARK Ada** with formal verification.
-
-Developed as part of a university coursework project for CSC313 (Critical Systems), the system models safety in aerospace control.
-
-
-# Critical Rocket Thruster System (SPARK Ada)
-
 This repository contains a safety-critical control system for regulating a rocket’s thrust and pressure, implemented in **SPARK Ada**. The project was developed as part of university coursework for CSC313 (Critical Systems), focusing on reliability, formal verification, and real-time control.
 
 
