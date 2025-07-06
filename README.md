@@ -17,6 +17,7 @@ This dual functionality — **thrust regulation** and **pressure failsafe** — 
 
 - `src/` — All SPARK Ada source code (including runtime wrappers)
 - `main.gpr` — GNAT project file for building
+- `verification-summary.JPG` — GNATprove summary showing 31 checks completed with 0 unproved conditions.
 
 ## Technologies
 
